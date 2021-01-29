@@ -5,10 +5,14 @@
 ___
 
 ### Stack
-
+- Python3 (Django)
+- HTML /  CSS
+- Java Script / JQuery
+- PhotoShop
+- SQL
 ___
 ### Web project
-
+* MARK_FANSITE
 ___
 ### Email_address
-wlsrl129@gmail.com
+>wlsrl129@gmail.com
