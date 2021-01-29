@@ -1,6 +1,7 @@
 ### 안녕하세요 👋
 
-![YOURLIFEISYOUROWN](https://i.pinimg.com/originals/df/60/4f/df604f688edd79eed3d9b6111b212c92.png)
+![YOURLIFEISYOUROWN](https://e7.pngegg.com/pngimages/36/207/png-clipart-south-park-character-south-park-kyle-broflovski-at-the-movies-cartoons-thumbnail.png)
+
 웹개발자를 목표로 하고 있는 신입개발자입니다!
 
 
