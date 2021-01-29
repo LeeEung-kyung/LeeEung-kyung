@@ -1,8 +1,6 @@
 ### 안녕하세요 👋
 
-웹개발자를 목표로 하고 있는 신입개발자입니다!
-
-
+웹개발자를 목표로 하고 있는 신입개발자입니다!  
 
 ### Stack
 
@@ -10,13 +8,11 @@
 - HTML /  CSS
 - Java Script / JQuery
 - PhotoShop
-- SQL
-
+- SQL  
 
 ### Web project
 
-* [MARK_FANSITE](http://nctmarklee.pythonanywhere.com/index/)
-
+* [MARK_FANSITE](http://nctmarklee.pythonanywhere.com/index/)  
 
 ### Email_address
 
