@@ -1,11 +1,12 @@
 ### 안녕하세요 👋
-__
+___
 
 웹개발자를 목표로 하고 있는 신입개발자입니다!
 
 
 ### Stack
-__
+___
+
 - Python3 (Django)
 - HTML /  CSS
 - Java Script / JQuery
@@ -14,10 +15,12 @@ __
 
 
 ### Web project
-__
+___
+
 * [MARK_FANSITE](http://nctmarklee.pythonanywhere.com/index/)
 
 
 ### Email_address
-__
+___
+
 >wlsrl129@gmail.com
