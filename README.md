@@ -7,8 +7,8 @@
 ### Stack 🖥
 
 - Python3 (Django)
-- HTML /  CSS
-- Java Script / JQuery
+- ReactJS
+- Java Script
 - PhotoShop
 - SQL  
 <br><br>
