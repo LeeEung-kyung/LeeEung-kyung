@@ -8,7 +8,7 @@
 
 - Python3 (Django)
 - ReactJS
-- Java Script
+- Java Script / Jquery
 - PhotoShop
 - SQL  
 <br><br>
