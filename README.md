@@ -6,11 +6,12 @@
 
 ### Stack 🖥
 
-- Python3 (Django)
 - ReactJS
-- Java Script / Jquery
+- Java Script / nodeJS
+- Python3 (Django)
+- Database (Mysql)
+- AWS
 - PhotoShop
-- SQL  
 <br><br>
 ### Web project 👩‍💻
 
