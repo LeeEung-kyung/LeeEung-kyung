@@ -7,10 +7,9 @@
 ### Stack 🖥
 
 - ReactJS
-- Java Script / nodeJS
+- Java Script / Jquery
 - Python3 (Django)
 - Database (Mysql)
-- AWS
 - PhotoShop
 <br><br>
 ### Web project 👩‍💻
