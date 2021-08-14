@@ -7,8 +7,10 @@
 ### Stack 🖥
 
 - ReactJS
-- Java Script / Jquery
-- Python3 (Django)
+- Jquery / Bootstrap
+- Java Script
+- NodeJS (Express)
+- Python (Django)
 - Database (Mysql)
 - PhotoShop
 <br><br>
