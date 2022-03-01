@@ -20,4 +20,4 @@
 <br><br>
 ### Email_address✉️
 
->wlsrl129@gmail.com
+>kylejp129@naver.com
