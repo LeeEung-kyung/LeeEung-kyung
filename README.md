@@ -7,13 +7,14 @@
 
 ### Stack 🖥
 
-- ReactJS
-- Jquery / Bootstrap
+- C / C#
+- UNITY
+- Python + (Django)
+- HTML / CSS
 - Java Script
-- NodeJS (Express)
-- Python (Django)
 - Database (Mysql)
 - PhotoShop
+- Illustator
 <br><br>
 ### Game Project 👩‍💻
 
