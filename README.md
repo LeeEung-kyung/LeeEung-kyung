@@ -9,10 +9,11 @@
 
 - C / C#
 - UNITY
+
 - Python + (Django)
 - HTML / CSS
 - Java Script
-- Database (Mysql)
+
 - PhotoShop
 - Illustator
 <br><br>
