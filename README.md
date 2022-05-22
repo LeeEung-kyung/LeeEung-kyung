@@ -22,5 +22,5 @@
 >kylejp129@naver.com
 
 ### Notion_Address✉️
-https://www.notion.so/HOME-f0b035c7db924078b651cd194d068f0c
+https://functional-record-81f.notion.site/HOME-f0b035c7db924078b651cd194d068f0c
 
