@@ -7,7 +7,7 @@
 
 ### Stack 🖥
 
-- C  C# C++
+- C / C# / C++
 - UNITY
 
 - Python + (Django)
