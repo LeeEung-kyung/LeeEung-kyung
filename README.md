@@ -11,11 +11,8 @@
 - UNITY
 
 - Python + (Django)
-- HTML / CSS
 - Java Script
 
-- PhotoShop
-- Illustator
 <br><br>
 ### Email_Address✉️
 
